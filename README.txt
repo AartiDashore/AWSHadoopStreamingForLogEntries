@@ -14,12 +14,12 @@ Prerequisites:
 Make sure you have:
 
 - Hadoop installed and running.
-- The `hadoop-streaming.jar` file available (typically located at `/usr/lib/hadoop-mapreduce/hadoop-streaming.jar`). To find your jar file, execute `$ find / -name "hadoop-streaming*.jar" 2>/dev/null` and use the path having '.jar' extension.
+- The `hadoop-streaming.jar` file available (typically located at `/usr/lib/hadoop-mapreduce/hadoop-streaming.jar`).
 - Python 3 installed.
 - The log file `Hadoop_2k.log` available in your working directory.
 
 
-How to Run:
+How to Run
 
 1. I have created a directory in hadoop named hw2 as:
    
